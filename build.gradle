@@ -32,7 +32,7 @@ allprojects {
         }
         buildDir = "${externalBuildDir}/${project.name}"
     }
-    group = 'com.google.android.exoplayer'
+    group = 'com.l1068org.ExoPlayer'
 }
 
 apply from: 'javadoc_combined.gradle'
